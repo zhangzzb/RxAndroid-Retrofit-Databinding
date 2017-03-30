@@ -13,12 +13,6 @@ MVVM（Model-View-ViewModel），它采用双向绑定（data-binding）：View�
 而 Google 新推出的 Databinding 正是采用了这种模式。
 
 RxAndroid + Retrofit + Databinding
-上面已经分别介绍了 RxAndroid、Retrofit、Databinding ，想必大家也有了个初步的认识，那我们就看看 RxAndroid + Retrofit + Databinding 产生的“化学反应”。浅谈 RxAndroid + Retrofit + Databinding最近 RxAndroid 、MVP、MVVM 一直是 Android 程序猿茶余饭后的谈资，于是我也抱着凑热闹的态度试试了试水。这里就谈谈试水后的感受
-
-什么是 RxAndroid ?要说什么是 RxAndroid ，得从 RxJava 说起。RxJava 在 GitHub 主页上的自我介绍是 “a library for composing asynchronous and event-based programs using observable sequences for the Java VM”（一个在 Java VM 上使用可观测的序列来组成异步的、基于事件的程序的库）。这就是 RxJava ，概括得非常精准。
-RxJava 的本质可以压缩为异步这一个词。说到根上，它就是一个实现异步操作的库，而别的定语都是基于这之上的。
-而RxAndroid是RxJava的一个针对Android平台的扩展，主要用于 Android 开发。
-想更详细的了解 Retrofit，可以查看官方文档
 上面已经分别介绍了 RxAndroid、Retrofit、Databinding ，想必大家也有了个初步的认识，那我们就看看 RxAndroid + Retrofit + Databinding 产生的“化学反应”。
 扩展阅读
 	1. RxJava / RxAndroid
