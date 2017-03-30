@@ -1,1 +1,0 @@
-UltimateRecyclerView是一个先进且灵活的Android RecyclerView控件，具有下拉刷新、加载更多(loading more)、swiping to dismiss、拖拽、动画、显示或隐藏工具栏，以及FAB等更多高级功能。你可以像使用RecyclerView一样使用UltimateRecyclerView。
